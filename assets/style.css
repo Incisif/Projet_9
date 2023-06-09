@@ -100,8 +100,8 @@ body {
 	justify-content: center;
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
-	color: #fff;
-	background-color: #BEB45A;
+	color: white;
+	background-color: #978c26;
 	border-radius:0 ;
 }
 .nav-pills .nav-link {
