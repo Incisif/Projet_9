@@ -242,6 +242,24 @@ input[type="submit"] {
 	background-color: #BEB45A;
 	padding: .5em 1em
 }
+footer{
+	background-color: #1C6474;
+}
+footer p{
+	margin-left: 90px;
+	color: aliceblue;
+}
+.footer__address {
+	padding: 2em;
+}
+.footer__title{
+	margin-left: 3em;
+	font-family: 'Spectral';
+	font-weight: 800;
+	font-style: italic;
+	font-size: 30px;
+	color: aliceblue;
+}
 
 @media all and (max-width: 1180px) {
 	.picture {
